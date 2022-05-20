@@ -1,1 +1,1 @@
-# CS549_MachineLearning
+# CS549 Machine Learning
